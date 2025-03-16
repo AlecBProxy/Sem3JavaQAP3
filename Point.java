@@ -1,3 +1,5 @@
+// Used for: Problem #2
+
 public class Point {
     private float x = 0.0f;
     private float y = 0.0f;

@@ -1,3 +1,5 @@
+// Used for: Problem #4
+
 public class ScalableDemo {
 
     public static void scaleAll(Scalable[] shapes, double factor) {

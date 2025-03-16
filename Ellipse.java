@@ -1,3 +1,5 @@
+// Used for: Problem #3, and Problem #4
+
 class Ellipse extends Shape implements Scalable{
     private double a, b; 
 

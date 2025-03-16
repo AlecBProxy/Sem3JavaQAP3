@@ -1,3 +1,5 @@
+// Used for: Problem #3, and Problem #4
+
 class Triangle extends Shape implements  Scalable{
     private double side1, side2, side3;
 

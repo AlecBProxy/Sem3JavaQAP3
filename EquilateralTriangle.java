@@ -1,3 +1,5 @@
+// Used for: Problem #3, and Problem #4
+
 class EquilateralTriangle extends Triangle  {
     
     public EquilateralTriangle(double side) {

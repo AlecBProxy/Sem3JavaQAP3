@@ -1,3 +1,5 @@
+// Used for: Problem #1
+
 public class Teacher extends Person {
     private String mySubject;
     private double mySalary;

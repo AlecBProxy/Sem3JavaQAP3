@@ -1,3 +1,5 @@
+// Used for: Problem #2
+
 public class PointDemo {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+// Used for: Problem #1
+
 public class Person {
     protected String myName; 
     protected int myAge;
@@ -34,6 +36,6 @@ public class Person {
     }
 
     public String toString() {
-        return myName + ", age: " + myAge + ", my gender:" + myGender;
+        return myName + ", age: " + myAge + ", my gender: " + myGender;
     }
 }
